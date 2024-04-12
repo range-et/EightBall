@@ -46,4 +46,3 @@ bqplot
 # Core libraries
 pandas
 numpy
-plotly
